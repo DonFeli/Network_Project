@@ -1,6 +1,6 @@
--Afficher carte du réseau parisien(Reprendre le jupyter du prof- Pas trop dur)
--Pars de notre fonction des distances, tourner sur toutes les points pour trouver la plus petite distance
--Carte de centralité: Carte des routes avec seulement les plus utilisés
--Prendre en compte l'altitude petit problème technique
--Carte de centralité: si on réussit la fonction avec altitude
+-Afficher carte du réseau parisien(Reprendre le jupyter du prof- Pas trop dur): 2j
+-Pars de notre fonction des distances, tourner sur toutes les points pour trouver la plus petite distance:4j
+-Carte de centralité: Carte des routes avec seulement les plus utilisés:1j
+-Prendre en compte l'altitude petit problème technique:4j
+-Carte de centralité: si on réussit la fonction avec altitude:1j
 
